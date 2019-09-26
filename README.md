@@ -15,5 +15,6 @@ Clone this repository on your local computer.
 
 3. docker-compose up -d
 
-Your LAMP stack is now ready!! You can access it via http://localhost:8002
+Your LAMP stack is now ready!! You can access it via http://localhost:8002.
+
 You can access phpmyadmin via http://localhost:8003 with username root/user1 and password test1
